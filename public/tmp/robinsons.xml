@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+    <companyname>Robinsons Incorporated</companyname>
+    <output>LIVE</output>
+    <filetype>pdf</filetype>
+    <content>
+        <consumer>
+            <stores>
+                <store>
+                    <headers>
+                        <deliverydate>43</deliverydate>
+                        <loccode>28</loccode>
+                        <ponum>40</ponum>
+                    </headers>
+                    <items>
+                        <sku_code>68</sku_code>
+                    </items>
+                </store>
+            </stores>
+        </consumer>
+    </content>
+</template>

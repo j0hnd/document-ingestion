@@ -1,0 +1,14 @@
+/*! UIkit 2.22.0 | http://www.getuikit.com | (c) 2014 YOOtheme | MIT License */
+.uk-dragover{box-shadow:0 0 20px rgba(100,100,100,.3)}
+.uk-progress-bar{
+    background: #009dd8 linear-gradient(to bottom, #00b4f5, #008dc5) repeat scroll 0 0;
+    box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2) inset, 0 0 0 1px rgba(0, 0, 0, 0.1) inset;
+    color: #fff;
+    float: left;
+    font-size: 12px;
+    height: 100%;
+    text-align: center;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+    transition: width 0.6s ease 0s;
+    width: 0;
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<template><companyname>sampleExcel</companyname><output>LIVE</output><filetype>xlsx</filetype><content><consumer><stores><store><headers><CancelDate>q1</CancelDate><DeliveryDate>w2</DeliveryDate><cloudstaff>e3</cloudstaff></headers><items><approvedDate>r4</approvedDate><d>t5</d></items></store></stores></consumer></content></template>
