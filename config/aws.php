@@ -14,8 +14,8 @@
     | http://docs.aws.amazon.com/aws-sdk-php-2/guide/latest/configuration.html
     |
     */
-    'key'    => 'AKIAIXZMTZ7GVUV6R7DQ',
-    'secret' => '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',
+    'key'    => '',
+    'secret' => '',
 
     /*
     |--------------------------------------------------------------------------
@@ -28,7 +28,7 @@
     | see: http://docs.aws.amazon.com/general/latest/gr/rande.html
     |
     */
-    'region' => 'ap-southeast-2',    
+    'region' => '',    
 
     /*
     |--------------------------------------------------------------------------
